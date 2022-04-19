@@ -3,6 +3,6 @@ Code figure,Parameter,Description,Unit
 193,Convective cloud layer bottom level,,
 194,Convective cloud layer top level,,
 195,Equilibrium level of most unstable CAPE,,
-196,Equilibrium level of mixed layer CAPE,,
+196,Equilibrium level of mixed layer CAPE,Mixed layer equilibrium level height above mean sea level where mixed layer parcel temperature equals the environment temperature above mean layer level of free convection (MLLFC).,
 197,Effective inflow layer base height,,
 198,Effective inflow layer top height,,
